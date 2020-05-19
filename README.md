@@ -6,4 +6,4 @@ For now, this is a finger excercise to see how a graphical user interface to con
 If the excersise succeeds, this could maybe become a package that:
 
    1. Implements the plugin to [Spyder-IDE](https://github.com/spyder-ide) 😍
-   2. Also works stand-alone, so it can be added to [miniforge](https://github.com/conda-forge/miniforge) to provide 'graphical installers' 🙉🙈🙊
+   2. Also works stand-alone, so it can be added to [miniforge](https://github.com/conda-forge/miniforge) to provide 'graphical installers' 🤤 🙉🙈🙊
